@@ -1,4 +1,3 @@
-
 #selection effect
 #ref http://d.hatena.ne.jp/yoschi0831/20130205/1360073249
 
