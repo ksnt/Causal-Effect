@@ -2,14 +2,6 @@
 
 work in progress
 
-## using libraries
-<dl>
-  <dt>library(MatchIt)</dt>
-  <dt>library(Matching)</dt>
-  <dt>library(survey)</dt>
-</dl>
-
-
 ## Reference
 ```
 Angrist, J. D., & Pischke, J. S. (2008). Mostly harmless econometrics: An empiricist's companion. Princeton university press.
